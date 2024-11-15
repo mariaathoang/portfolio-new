@@ -79,7 +79,7 @@ export default function Navbar() {
         {item.label}
       </Link>
       {idx < NAV_ITEMS.length - 1 && (
-        <span className="text-neutral-900 dark:text-neutral-100"> // </span>
+        <span className="text-neutral-900 dark:text-neutral-100"></span>
       )}
     </React.Fragment>
   ))}
