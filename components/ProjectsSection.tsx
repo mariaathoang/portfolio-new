@@ -6,12 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs";
 
 const projects = [
   {
-    name: "Title",
+    name: "Sequence Game",
     description:
-      "Description",
-    image: "/Work-In-Progress.png",
-    github: "https://github.com/mariaathoang",
-    link: "https://github.com/mariaathoang",
+      "A simple sequence game.",
+    image: "/sequence-game.png",
+    github: "https://github.com/mariaathoang/mariaathoang.github.io/tree/sequence-game",
+    link: "https://mariaathoang.github.io",
   },
 ]
 
