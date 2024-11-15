@@ -83,16 +83,16 @@ export default function Navbar() {
       )}
     </React.Fragment>
   ))}
-              {currentTheme === "dark" ? (
+              {currentTheme === "light" ? (
                 <button
-                  onClick={() => setTheme("light")}
+                  onClick={() => setTheme("dark")}
                   className="bg-slate-100 p-2 rounded-xl"
                 >
                   <RiSunLine size={25} color="black" />
                 </button>
               ) : (
                 <button
-                  onClick={() => setTheme("dark")}
+                  onClick={() => setTheme("light")}
                   className="bg-slate-100 p-2 rounded-xl"
                 >
                   <RiMoonFill size={25} />
