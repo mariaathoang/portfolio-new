@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef} from "react"
+import React, { useState, useEffect, useRef} from "react";
 
 const skills = [
   { skill: "HTML", color: "bg-[#E34F26]" },

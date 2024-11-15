@@ -1,4 +1,4 @@
-"use client"; // client component
+"use client";
 import React, { useState } from "react";
 import Image from "next/image";
 import { Typewriter } from "react-simple-typewriter";
