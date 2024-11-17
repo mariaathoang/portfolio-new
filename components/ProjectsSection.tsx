@@ -10,8 +10,8 @@ const projects = [
     description:
       "A simple sequence game.",
     image: "/sequence-game.png",
-    github: "https://github.com/mariaathoang/mariaathoang.github.io/tree/sequence-game",
-    link: "https://mariaathoang.github.io",
+    github: "https://github.com/mariaathoang/sequence-game",
+    link: "https://mariaathoang.github.io/sequence-game/",
   },
 ]
 
