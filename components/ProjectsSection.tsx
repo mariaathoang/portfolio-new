@@ -13,6 +13,14 @@ const projects = [
     github: "https://github.com/mariaathoang/sequence-game",
     link: "https://mariaathoang.github.io/sequence-game/",
   },
+  {
+    name: "Ice Cream Store",
+    description:
+      "An online ice cream store containing a variety of Korean ice creams inspired by my exchange in Korea.",
+    image: "/Work-In-Progress.png",
+    github: "https://github.com/mariaathoang/ecommerce-app",
+    link: "https://github.com/mariaathoang/ecommerce-app",
+  },
 ]
 
 const ProjectsSection = () => {
