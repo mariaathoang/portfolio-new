@@ -80,7 +80,7 @@ const AboutSection: React.FC = () => {
             </h1>
             <p>
               Hei! Jeg heter Maria, jeg er 20 år og er en {" "}
-              <span className="font-bold">{"nysjerrig"}</span>,
+              <span className="font-bold">{"nysgjerrig"}</span>,
               <span className="font-bold">{" lidenskapelig"}</span>, og
               <span className="font-bold">{" ambisiøs"}</span> utvikler fra Oslo.
             </p>
