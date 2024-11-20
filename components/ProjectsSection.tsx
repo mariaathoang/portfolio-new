@@ -14,10 +14,10 @@ const projects = [
     link: "https://mariaathoang.github.io/sequence-game/",
   },
   {
-    name: "Ice Cream Store",
+    name: "E-Commerce (WIP)",
     description:
       "An online ice cream store containing a variety of Korean ice creams inspired by my exchange in Korea.",
-    image: "/Work-In-Progress.png",
+    image: "/e-commerce.png",
     github: "https://github.com/mariaathoang/ecommerce-app",
     link: "https://github.com/mariaathoang/ecommerce-app",
   },
