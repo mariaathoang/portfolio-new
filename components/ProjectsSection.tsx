@@ -14,6 +14,14 @@ const projects = [
     link: "https://mariaathoang.github.io/sequence-game/",
   },
   {
+    name: "Weather App",
+    description:
+      "What's the weather like today? (With icons designed by me).",
+    image: "/weather-app.png",
+    github: "https://github.com/mariaathoang/weather-app",
+    link: "https://mariaathoang.github.io/weather-app/",
+  },
+  {
     name: "E-Commerce (WIP)",
     description:
       "An online ice cream store containing a variety of Korean ice creams inspired by my exchange in Korea.",
