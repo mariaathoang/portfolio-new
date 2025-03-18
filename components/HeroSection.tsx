@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div className="flex flex-col text-center items-center justify-center animate-fadeIn animation-delay-2 my-10 py-16 sm:py-32 md:py-48 md:flex-row md:space-x-4 md:text-left">
         <div className="md:mt-2 md:w-1/2">
           <Image
-            src="/headshot.jpg"
+            src="/1000014276.jpg"
             alt="Headshot of Maria"
             width={325}
             height={325}
@@ -22,7 +22,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             Jeg brenner for teknologi og jobber med å utvikle ferdighetene mine til å bli en{" "}
-            <span className="font-semibold text-cyan-600">Fullstack-utvikler.</span>
+            <span className="font-semibold text-cyan-600">Frontend-utvikler.</span>
           </p>
           <div className="bg-gray-900 p-4 rounded-lg w-full md:w-4/5 shadow-lg">
             <pre className="text-left text-white text-sm md:text-base">
