@@ -22,7 +22,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             Jeg brenner for teknologi og jobber med å utvikle ferdighetene mine til å bli en{" "}
-            <span className="font-semibold text-cyan-600">Fullstack-utvikler.</span>
+            <span className="font-semibold text-cyan-600">Frontend-utvikler.</span>
           </p>
           <div className="bg-gray-900 p-4 rounded-lg w-full md:w-4/5 shadow-lg">
             <pre className="text-left text-white text-sm md:text-base">
