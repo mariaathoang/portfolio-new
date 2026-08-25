@@ -79,16 +79,16 @@ const AboutSection: React.FC = () => {
               Bli kjent med meg!
             </h1>
             <p>
-              Hei! Jeg heter Maria, jeg er 20 år og er en {" "}
+              Hei! Jeg heter Maria, jeg er 22 år og er en {" "}
               <span className="font-bold">{"nysgjerrig"}</span>,
               <span className="font-bold">{" lidenskapelig"}</span>, og
               <span className="font-bold">{" ambisiøs"}</span> utvikler fra Oslo.
             </p>
             <br />
             <p>
-              Jeg er tredjeårs student i bachelorstudiet IT og
-              Informasjonssystemer ved Universitetet i Agder, og har planer om å
-              ta master innen informatikk ved Universitetet i Oslo.
+              Jeg er førsteårsstudent i masterstudiet Universell Utforming av IKT ved
+              OsloMet - Storbyuniversitetet, og har en bachelor i IT og Informasjonssystemer 
+              fra Universitetet i Agder.
             </p>
             <br />
             <p>
